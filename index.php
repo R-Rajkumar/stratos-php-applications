@@ -2,7 +2,7 @@
 
 <html>
 <head>
-  <title>PHP Demo</title>
+  <title>MySQL Demo</title>
   <link href="style.css" rel="stylesheet">
 </head>
 
